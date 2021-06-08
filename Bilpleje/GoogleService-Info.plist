@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>203658009772-tpm0p33eo2qk8h0983lft8d725s1vk6i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.203658009772-tpm0p33eo2qk8h0983lft8d725s1vk6i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCELPECbmIV5vI-VmyoLuPjNq-UrakV_j0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>203658009772</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>private.Bilpleje</string>
+	<key>PROJECT_ID</key>
+	<string>bilpleje-5af96</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bilpleje-5af96.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:203658009772:ios:55c3126aec72f83a2a1309</string>
+</dict>
+</plist>

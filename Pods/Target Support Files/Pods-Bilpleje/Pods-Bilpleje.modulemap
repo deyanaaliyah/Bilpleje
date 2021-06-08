@@ -1,0 +1,6 @@
+framework module Pods_Bilpleje {
+  umbrella header "Pods-Bilpleje-umbrella.h"
+
+  export *
+  module * { export * }
+}
